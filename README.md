@@ -18,11 +18,12 @@
 
 ---
 
+✍️ Автор
+Zebra-developer
+Моя визитка - [Zebra_developer](https://my-business-card-4qs2.onrender.com)
+
 ## 🚀 Запуск
 
 ```bash
 pip install -r requirements.txt
 python book_parser.py
-
-✍️ Автор
-Zebra-developer
