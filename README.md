@@ -23,3 +23,6 @@
 ```bash
 pip install -r requirements.txt
 python book_parser.py
+
+✍️ Автор
+Zebra-developer
